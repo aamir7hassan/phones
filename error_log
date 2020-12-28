@@ -1,0 +1,8 @@
+[31-Aug-2019 07:04:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'X0M1#esIgcJ~'@'localhost' (using password: YES) in /home2/technqk5/public_html/demo/jiji/index.php on line 2
+[31-Aug-2019 07:04:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/technqk5/public_html/demo/jiji/index.php on line 4
+[31-Aug-2019 07:04:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'X0M1#esIgcJ~'@'localhost' (using password: YES) in /home2/technqk5/public_html/demo/jiji/index.php on line 2
+[31-Aug-2019 07:04:24 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/technqk5/public_html/demo/jiji/index.php on line 4
+[31-Aug-2019 07:04:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'X0M1#esIgcJ~'@'localhost' (using password: YES) in /home2/technqk5/public_html/demo/jiji/index.php on line 2
+[31-Aug-2019 07:04:41 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/technqk5/public_html/demo/jiji/index.php on line 4
+[31-Aug-2019 07:04:49 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'X0M1#esIgcJ~'@'localhost' (using password: YES) in /home2/technqk5/public_html/demo/jiji/index.php on line 2
+[31-Aug-2019 07:04:49 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home2/technqk5/public_html/demo/jiji/index.php on line 4
